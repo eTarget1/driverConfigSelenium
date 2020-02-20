@@ -8,3 +8,6 @@ To create your profile:
 firefox -P newprofile
 
 You cannot copy this path while creating profile, but when you go to path with profiles:  ~/.mozilla/firefox/
+
+We can use this site to practice: 
+rori4.github.io/selenium-practice
