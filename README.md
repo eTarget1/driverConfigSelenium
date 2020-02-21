@@ -11,3 +11,6 @@ You cannot copy this path while creating profile, but when you go to path with p
 
 We can use this site to practice: 
 rori4.github.io/selenium-practice
+
+The best place to learn css selectors: 
+https://flukeout.github.io
